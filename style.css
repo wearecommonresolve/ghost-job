@@ -1,0 +1,56 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  margin: 0;
+  padding: 20px;
+  width: 300px; /* Set width for the popup */
+}
+
+.popup-container {
+  text-align: center;
+}
+
+.app-name {
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+
+.key-feature {
+  font-size: 16px;
+  margin-bottom: 20px;
+  color: #666;
+}
+
+.search-button {
+  background-color: #0073e6;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 15px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s;
+}
+
+.search-button:hover {
+  background-color: #005bb5; /* Darker shade on hover */
+}
+
+.redirect-button {
+  display: inline-block;
+  margin-top: 15px;
+  color: #0073e6;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.redirect-button:hover {
+  text-decoration: underline;
+}
+
+.footer {
+  margin-top: 20px;
+  font-size: 12px;
+  color: #999;
+}

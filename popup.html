@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ghost Job Detector</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <style>
+        /* Inline style for the button inspired by Material UI */
+        .redirect-button {
+            display: inline-block;
+            padding: 10px 20px;
+            font-size: 16px;
+            color: white;
+            background-color: #1976D2; /* Material UI blue */
+            border: none;
+            border-radius: 4px;
+            text-decoration: none;
+            text-align: center;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        .redirect-button:hover {
+            background-color: #1565C0; /* Darker blue on hover */
+        }
+    </style>
+</head>
+
+<body>
+    <div class="popup-container">
+        <h1 class="app-name">Common Resolve</h1>
+        <p class="key-feature"> We detect if a job posting is fake<br>
+            saving your time to apply to <em>real</em> jobs.</p>
+        <button class="search-button" id="captureButton">Start Detecting</button> 
+        <p id="salaryDetails" style="display: none;"></p>
+        <br> <br> 
+
+        <a href="https://wearecommonresolve.com" target="_blank">Visit Our Website</a>
+        <footer class="footer">
+            <p>&copy; 2024 Common Resolve. </p>
+        </footer>
+    </div>
+    <script src="popup.js"></script> <!-- Link to JavaScript file -->
+</body>
+
+</html>
