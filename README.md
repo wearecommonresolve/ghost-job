@@ -32,6 +32,10 @@ Our mission with this repository is to provide a collaborative foundation where 
   - Collect employee reviews from platforms like Glassdoor.
 
 ---
+### Bug Reports and Feedback
+
+To report any bugs, please **raise an issue on GitHub**.  
+For suggestions or feedback, feel free to reach out to us at **[hello@wearecommonresolve.com](mailto:hello@wearecommonresolve.com)**.
 
 ### Getting Started with Local Development
 
