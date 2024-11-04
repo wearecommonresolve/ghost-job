@@ -2,11 +2,11 @@
 
 ### Introduction
 
-Applying for jobs on platforms like LinkedIn can feel frustrating and inefficient. Often, you’re left in the dark, not knowing if you’ll ever get a callback. The process becomes even more painful when you discover job postings that lack transparency—listings without salaries, positions that are months old, or worse, jobs that have already been filled but are still visible.
+Applying for jobs on platforms like LinkedIn can be frustrating and inefficient. Often, you’re left wondering if you’ll ever hear back. The process becomes even more painful with job postings that lack transparency—listings without salaries, outdated postings that are months old, or even positions that have already been filled.
 
-To tackle this, we’ve developed a browser plugin that simplifies your job search experience. Our tool helps you assess whether a job is worth applying to by calculating a "ghost job" likelihood percentage, so you can see if it’s likely to be a legitimate opportunity or just a filler post.
+To address this, we’ve developed a browser extension that simplifies your job search experience. Available now on the [Chrome Web Store](https://chromewebstore.google.com/detail/common-resolve/hemkacfkmhldlhpfndjfibkalfphiibf), our tool helps you assess if a job is worth applying to by showing the likelihood that it’s a "ghost job" (an inactive or filler post). The plugin calculates a "ghost job" likelihood percentage based on different metrics so you can quickly see if it’s a genuine opportunity.
 
-Our mission with this repository is to create a foundation for a collaborative community. Here, contributors can share their own metrics for identifying ghost jobs, building a stronger framework together to discourage companies from posting misleading or outdated job listings. Together, we can make a difference.
+Our mission with this repository is to provide a collaborative foundation where contributors can implement their own ghost job identification metrics and work together to make it illegal for companies to post misleading job listings.
 
 **Together, We Win!**
 
@@ -33,5 +33,38 @@ Our mission with this repository is to create a foundation for a collaborative c
 
 ---
 
-Join us in building a tool that transforms the job-seeking experience and makes job boards more transparent for everyone!
+### Getting Started with Local Development
 
+To run this extension locally, follow these steps:
+
+1. **Clone the Repository**  
+   Clone this GitHub repository to your local machine:
+   ```bash
+   git clone https://github.com/yourusername/job-application-helper.git
+2. **Navigate to the Extension Folder**
+   Go into the extension’s directory:
+   ```bash
+   cd job-application-helper
+3. **Install Dependencies (if applicable)**
+   If the project has dependencies, install them (otherwise, skip this step):
+   ```bash
+   npm install
+4. **Load the Extension in Chrome**
+    1. Open Chrome and go to `chrome://extensions/`.
+    2. Enable **Developer mode** (toggle in the top-right corner).
+    3. Click **Load unpacked** and select the cloned repository folder.
+5. **Run the Extension**
+   The extension should now be loaded in Chrome and ready to test.
+6. **Make Changes and Reload**
+   During development, make changes to the code and refresh the extension from `chrome://extensions/` to see updates.
+
+
+
+
+
+
+
+
+
+
+   
