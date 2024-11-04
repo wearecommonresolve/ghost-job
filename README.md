@@ -58,6 +58,10 @@ To run this extension locally, follow these steps:
 6. **Make Changes and Reload**
    During development, make changes to the code and refresh the extension from `chrome://extensions/` to see updates.
 
+### Demo of the Extension
+
+https://github.com/user-attachments/assets/5ff8c96e-a497-4613-9ae7-3b0e47d4755e
+
 
 
 
