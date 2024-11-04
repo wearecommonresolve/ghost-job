@@ -1,4 +1,3 @@
-```markdown
 # Job Application Helper - Fight Against Ghost Jobs
 
 ### Introduction
@@ -35,4 +34,4 @@ Our mission with this repository is to create a foundation for a collaborative c
 ---
 
 Join us in building a tool that transforms the job-seeking experience and makes job boards more transparent for everyone!
-```
+
