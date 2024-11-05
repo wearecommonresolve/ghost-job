@@ -1,5 +1,7 @@
 # Job Application Helper - Fight Against Ghost Jobs
 
+A browser extension that helps job seekers identify potentially fake or "ghost" job postings across major job sites.
+
 ### Introduction
 
 Applying for jobs on platforms like LinkedIn can be frustrating and inefficient. Often, you’re left wondering if you’ll ever hear back. The process becomes even more painful with job postings that lack transparency—listings without salaries, outdated postings that are months old, or even positions that have already been filled.
