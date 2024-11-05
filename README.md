@@ -18,6 +18,10 @@ Our mission with this repository is to provide a collaborative foundation where 
 - **Age of the Job Posting** – Older listings may indicate a filled position or a lack of urgency from the hiring company.
 - **Reposted Frequency** – Tracks if the job has been reposted multiple times, which could signal an inactive or ghost listing.
 
+### Current Status:
+- [x] **Buzzword detection** ✅
+- [ ] **Vague job description** ⏳
+
 ### Future Plans
 
 - **Extend the Extension to Different Browsers**
